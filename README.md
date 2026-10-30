@@ -54,9 +54,11 @@ See tests/test_samples.md for the detailed testing report.
 
 ## Screenshots
 
-![Sample run](screenshots/sample_run.png)
+### Program Output
+![Sample Run](screenshots/sample_run.png)
 
-![Test results](screenshots/test_results.png)
+### Test Results
+![Test Results](screenshots/test_results.png)
 
 ## Improvements
 
